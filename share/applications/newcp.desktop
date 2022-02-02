@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=NewCP
+Comment=NewCP App
+GenericName=NewCP
+Exec=newcp %U
+Icon=newcp
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
+
